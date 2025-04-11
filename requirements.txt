@@ -1,0 +1,8 @@
+sunpy
+cdflib.xarray
+xarray
+pandas
+numpy
+datetime
+matplotlib
+# SerPyShock_LauraVersion # Private code written by Laura Vuorinen (QMUL)
