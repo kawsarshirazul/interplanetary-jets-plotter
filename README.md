@@ -1,5 +1,5 @@
 # interplanetary-jets-plotter
-A python package that return a poster-ready figure showing Solar Orbiter magnetic field (MAG) and plasma (SWA) data highlighting dynamic-pressure enhancements (a.k.a "jets") found downstream of interplanetary magnetic shocks.
+A python package that can create poster-ready figures showing NASA/ESA Solar Orbiter data from its MAG and SWA instruments, highlighting dynamic-pressure enhancements (a.k.a "jets") found downstream of interplanetary magnetic shocks.
 
 ## Example Outputs
 ![SHK-2022061700_P-dyn-ratio](https://github.com/user-attachments/assets/f2ae80b7-7a92-447a-af63-e8aea0a0af03)
